@@ -1,4 +1,4 @@
-# Visulization and Predictive Analysis of COVID-19 of Bangladesh
+## Visulization and Predictive Analysis of COVID-19 of Bangladesh
 
 ## Background 🚀
 
